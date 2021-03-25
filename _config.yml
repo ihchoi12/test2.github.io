@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Hi, there"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Inho Choi"
 description              : "An amazing website."
 url                      : "https://ihchoi12.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -95,15 +95,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Inho Choi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "I am an Ph.D. candidate working on **Distributed Systems**."
+  location         : "NUS"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "inhochoi@comp.nus.edu.sg"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
